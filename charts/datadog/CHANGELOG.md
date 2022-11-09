@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 3.2.1
+
+* Add CO-RE configuration values `datadog.systemProbe.btfPath` and `datadog.systemProbe.enableCORE`
+
 ## 3.2.0
 
 * Default "Agent" and "Cluster-Agent" image tag to `7.40.0`.
